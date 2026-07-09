@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoaoVitorSD
-- I'm Graduating in Systems of Information at UFMG
+- I'm Graduated in Systems of Information at UFMG
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently studding fullstack development
 
